@@ -1,4 +1,9 @@
-### Hi there 👋
+### This is Markus, 
+some things i'm passionate about are
+-typing at 60 wpm
+-math and science (are they related?)
+-Business
+-A-10 go BRRR
 
 <!--
 **mlegge/mlegge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
